@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "glob cafe",
+        "Address": "some road",
+        "Rating": "1/5 Avoid at all costs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03704071044922,
+          -37.87241432564618
+        ]
+      }
+    }
+  ]
+}
